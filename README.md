@@ -14,9 +14,17 @@ The other person should pull the changes locally and add their own short bio. Pu
 
 Make it so that both partners have both short biographies locally (pull).
 
+<<<<<<< HEAD
 
 ##Hi This Is Asif Mohiuddin 
 =======
 ## hi here it's Giuliano and I come from Italy and I like pasta
 I am adding a second line of content to be pulled on the repository
+=======
+## Hi This Is Asif Mohiuddin 
+=======
+## hi here it's Giuliano and I come from Italy and I like pasta
+
+## Second try!!
+>>>>>>> fb561bee1bedd78358ae6cb7caedaa5b2ed4172e
 
