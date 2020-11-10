@@ -24,7 +24,12 @@ I am adding a second line of content to be pulled on the repository
 ## Hi This Is Asif Mohiuddin 
 =======
 ## hi here it's Giuliano and I come from Italy and I like pasta
+<<<<<<< HEAD
+>>>>>>> 87578425bc3edca2cc9c86495883cfbf28859ec2
+## Hi my name is Tedros 
+=======
 
 ## Second try!!
 >>>>>>> fb561bee1bedd78358ae6cb7caedaa5b2ed4172e
 
+>>>>>>> fb561bee1bedd78358ae6cb7caedaa5b2ed4172e
