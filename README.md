@@ -14,9 +14,8 @@ The other person should pull the changes locally and add their own short bio. Pu
 
 Make it so that both partners have both short biographies locally (pull).
 
-<<<<<<< HEAD
-
-##Hi This Is Asif Mohiuddin 
+## Hi This Is Asif Mohiuddin 
 =======
 ## hi here it's Giuliano and I come from Italy and I like pasta
->>>>>>> 87578425bc3edca2cc9c86495883cfbf28859ec2
+
+
